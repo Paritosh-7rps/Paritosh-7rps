@@ -1,7 +1,7 @@
 ### Hi there 👋 I am Paritosh 
 
 - 🔭 I’m currently working on ... Natural Language Processing(NLP) Tasks
-- 🌱 I’m currently learning ...Machine Learning & Deep Learning Algorithms 
+- 🌱 I’m currently learning ...Machine Learning & Deep Learning Algorithms & MLOops
 - 👯 I’m looking to collaborate on ...Machine Learning and Deep Learning Projects
 - 🤔 I’m looking for help with ...AWS, Cloud
 - 💬 Ask me about ...
