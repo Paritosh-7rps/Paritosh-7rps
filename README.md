@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on ...Machine Learning and Deep Learning Projects
 - 🤔 I’m looking for help with ...AWS, Cloud
 - 💬 Ask me about ...
-- 📫 How to reach me: ...LinkedIn-https://www.linkedin.com/in/paritosh07/
+- 📫 How to reach me: ...LinkedIn- linkedin.com/in/paritosh07/
 <!--
 **paritoshMahto07/paritoshMahto07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
