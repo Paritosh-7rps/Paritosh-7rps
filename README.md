@@ -1,6 +1,6 @@
 ## Hi there 👋 I am Paritosh
 
- I’m a Machine Learning Engineer from New Delhi, India.I’m currently learning MLOps and abot Data Privacy. I’m open to collaborate on Machine Learning and Deep Learning Projects
+ I’m a Machine Learning Engineer from New Delhi, India.I’m currently learning MLOps and about Data Privacy. I’m open to collaborate on Machine Learning and Deep Learning Projects
  
 ### 📫 How to reach me: 
 LinkedIn - www.linkedin.com/in/paritosh07/ 
