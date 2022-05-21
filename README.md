@@ -1,4 +1,4 @@
-### Hi there 👋 I am Paritosh 
+## Hi there 👋 I am Paritosh
 
 - 🔭 I’m currently working on ... Natural Language Processing(NLP) Tasks
 - 🌱 I’m currently learning ...Machine Learning & Deep Learning Algorithms 
